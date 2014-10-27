@@ -3,4 +3,4 @@
 
 // enable G729
 #define PJMEDIA_HAS_G729_CODEC 1
-
+#define PJSUA_MAX_ACC 32
